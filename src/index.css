@@ -1,0 +1,22 @@
+.card-manage    {
+    margin-bottom: 50px;
+}
+.card-manage p{
+    margin-top:20px ;
+}
+
+
+.card-img{
+    height: 200px;
+    object-fit: contain;
+}
+
+.ratings {
+    display: flex;
+    gap: 10px;
+}
+
+.ratings div{
+    font-size: 20px;
+
+}
