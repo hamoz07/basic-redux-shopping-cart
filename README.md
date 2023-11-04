@@ -1,8 +1,38 @@
-# React + Vite
+# basic-redux-e-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+this project made to practice redux, react bootstrap and cleaner code due to redux efficiency
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- responsive
+- well structured code (clean code)
+- showing item's stars
+- showing items's price
+- showing items's title
+- showing items's desc
+- showing items's quantity (1) when clicking add to cart button
+- adding item to cart
+- removing item from cart
+
+## Technologies Used
+
+- react 
+- react-redux
+- bootstrap
+- react-router-dom
+- react-bootstrap
+
+## Demo
+
+* you can use it from here: http://redux-e-commerce.surge.sh/cart
+
+## Contact
+
+- if you find any problem you can reach me through: hamozaar07@gmail.com
+
+
+---
+
+[Report a Bug](https://github.com/hamoz07/basic-redux-shopping-cart/issues) | [Request a Feature](https://github.com/hamoz07/basic-redux-shopping-cart/issues)
